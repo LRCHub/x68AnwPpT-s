@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "その先はイグザルト",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-14T12:23:29.701755Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "その先はイグザルト",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_その先はイグザルト_≒JOY.txt"
+    }
+  ]
+}
